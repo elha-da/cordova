@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/cordova/hello/platforms/android/build/intermediates/res/merged/debug/drawable-port-ldpi-v4/screen.png",
+        "source": "/var/www/cordova/hello/platforms/android/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/var/www/cordova/trunk/hello/platforms/android/build/intermediates/res/merged/debug/drawable-port-ldpi-v4/screen.png",
+        "source": "/var/www/cordova/trunk/hello/platforms/android/res/drawable-port-ldpi/screen.png"
+    }
+]

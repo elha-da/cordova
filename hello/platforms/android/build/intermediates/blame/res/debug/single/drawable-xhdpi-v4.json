@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/cordova/hello/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/var/www/cordova/hello/platforms/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/var/www/cordova/trunk/hello/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/var/www/cordova/trunk/hello/platforms/android/res/drawable-xhdpi/icon.png"
+    }
+]
